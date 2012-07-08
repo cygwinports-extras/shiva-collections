@@ -1,0 +1,5 @@
+inherit cmake
+
+
+HOMEPAGE="http://www.opengtl.org/"
+SRC_URI="http://download.opengtl.org/${P}.tar.bz2"
